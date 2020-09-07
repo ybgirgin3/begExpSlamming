@@ -2,7 +2,7 @@
 
 ## Slamming Example as a Beginner 
 
-under heavily maintance
+under maintance heavily
 
 ## how to run
 
