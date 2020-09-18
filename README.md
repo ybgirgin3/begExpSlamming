@@ -24,8 +24,6 @@ for ubuntu/debian
 ~$ sudo apt install pyopengl python3-sdl2
 ```
 
-and pandolin (use official repo [installation guide](https://github.com/uoip/pangolin)) 
-
 after all req installation done use 
 ```sh
 ~$ chmod +x slam.py
