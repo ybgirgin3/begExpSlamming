@@ -1,3 +1,4 @@
 opencv-python
 numpy
 PySDL2
+PyOpenGL
