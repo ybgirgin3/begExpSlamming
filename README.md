@@ -21,7 +21,7 @@ after all installation done you need to install opengl lib and sdl2 lib to your 
 
 for ubuntu/debian
 ```sh
-~$ sudo apt install pyopengl python3-sdl2
+~$ sudo apt install python3-sdl2
 ```
 
 after all req installation done use 
