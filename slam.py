@@ -2,7 +2,7 @@
 
 # from time import sleep
 import cv2
-from display import Display
+from disp2 import Display
 
 W = 1920 // 2
 H = 1080 // 2
