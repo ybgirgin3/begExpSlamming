@@ -17,12 +17,6 @@ installing requirements;
 ~$ pip3 install -r requirements.txt
 ```
 
-after all installation done you need to install opengl lib and sdl2 lib to your system which not available with pip
-
-for ubuntu/debian
-```sh
-~$ sudo apt install pyopengl python3-sdl2
-```
 
 after all req installation done use 
 ```sh
